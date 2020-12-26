@@ -32,15 +32,15 @@ class ViewController: UIViewController {
         redLabelRight.backgroundColor = .white
         redLabelRight.font = redLabelRight.font.withSize(15)
         redLabelRight.layer.masksToBounds = true
-        redLabelRight.layer.cornerRadius = 5
+        redLabelRight.layer.cornerRadius = 6
         
         greenLabelRight.font = greenLabelRight.font.withSize(15)
         greenLabelRight.layer.masksToBounds = true
-        greenLabelRight.layer.cornerRadius = 5
+        greenLabelRight.layer.cornerRadius = 6
         
         blueLabelRight.font = blueLabelRight.font.withSize(15)
         blueLabelRight.layer.masksToBounds = true
-        blueLabelRight.layer.cornerRadius = 5
+        blueLabelRight.layer.cornerRadius = 6
         
         redLabelLeft.textColor = .white
         
